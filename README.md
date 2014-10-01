@@ -3,7 +3,7 @@ apppt
 analysis of permuted protein based peptide t scores
 
 
-Modus operandi
+modus operandi
 =====================
 this repo contains a collection of loosely amalgamated statistical scripts written in R; designed to analyze high-throughput mass spectrometry based proteomic data
 
