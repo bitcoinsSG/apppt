@@ -9,7 +9,7 @@ this repo contains a collection of loosely amalgamated statistical scripts writt
 
 novelty
 =====================
-apppt uses a novel approach to the statistical analysis of differentiated proteins between samples by minimizing the number of assumptions a priori. By evaluating null hypothesis empirically on a per variable and multi variable level, apppt discards the trust required on the theoritical distribution and thus provides a highly robust approach to hypothesis testing
+apppt uses a novel approach to the statistical analysis of differentiated proteins between samples by minimizing the number of assumptions a priori. By evaluating the null hypothesis empirically on a per variable and multi variable level in tandem, apppt discards the trust required on the theoritical distributions and thus provides a highly robust approach to hypothesis testing
 
 motivation/warning
 =====================
