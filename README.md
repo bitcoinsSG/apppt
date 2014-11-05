@@ -13,7 +13,7 @@ apppt uses a novel approach to the statistical analysis of differentiated protei
 
 motivation/warning
 =====================
-apppt is not intended for production level real-time analysis, rather a platform from which production level scripts may be constructed
+apppt is not intended for production level real-time analysis, rather, a platform from which production level scripts may be constructed
 
 
 license
